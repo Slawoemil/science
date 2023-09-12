@@ -1,1 +1,0 @@
-print('startujemy z monte carlo')
